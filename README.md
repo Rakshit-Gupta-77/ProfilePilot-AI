@@ -118,7 +118,7 @@ profilepilot-ai/
 
 ---
 
-## Customisation Reference
+## Customization Reference
 
 | What to change | Where to change it |
 |---|---|
